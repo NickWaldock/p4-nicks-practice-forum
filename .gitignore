@@ -3,3 +3,7 @@ db.sqlite3
 .env
 .DS_Store
 .vscode/
+htmlcov/
+.coverage
+__pycache__/
+
