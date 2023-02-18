@@ -4,7 +4,7 @@
 source venv/bin/activate
  
 Current video
-https://www.youtube.com/watch?v=Ae3M10Qyevo&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=21
+https://www.youtube.com/watch?v=GfyP_MYtLng&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=30
 
 
 
