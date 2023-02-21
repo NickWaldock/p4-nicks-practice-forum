@@ -9,3 +9,13 @@ https://www.youtube.com/watch?v=GfyP_MYtLng&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhC
 
 
 Testing
+
+
+
+
+
+Resources
+Bootstrap V5.2
+https://getbootstrap.com/docs/5.2/
+
+Google Fonts
