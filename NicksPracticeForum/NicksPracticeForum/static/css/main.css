@@ -12,11 +12,12 @@
 
 /* Navbar */
 .logo {
-    
+    font-family: 'Archivo', sans-serif;
     letter-spacing: -1.5px;
 
 }
 
+html, 
 body {
     font-family: 'Barlow', sans-serif;
 }
