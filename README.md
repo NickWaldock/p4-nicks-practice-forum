@@ -4,7 +4,7 @@
 source venv/bin/activate
  
 Current video
-https://www.youtube.com/watch?v=GfyP_MYtLng&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=30
+https://www.youtube.com/watch?v=M6E6MmkxsuI&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=34
 
 
 
@@ -19,3 +19,7 @@ Bootstrap V5.2
 https://getbootstrap.com/docs/5.2/
 
 Google Fonts
+
+
+Placeholder images
+https://picsum.photos/
