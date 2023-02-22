@@ -4,7 +4,8 @@
 source venv/bin/activate
  
 Current video
-https://www.youtube.com/watch?v=M6E6MmkxsuI&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=34
+https://www.youtube.com/watch?v=6e2OdXcYOoY&list=PLOLrQ9Pn6cawJ9CbY-o_kQC4GOWfhCFHq&index=37
+24m51s
 
 
 
@@ -30,3 +31,8 @@ https://factoryboy.readthedocs.io/en/stable/_modules/factory/faker.html
 HTMX
 https://htmx.org/
 https://pypi.org/project/django-htmx/
+
+Django Packages - tagging & Tag cloud
+https://djangopackages.org/
+https://djangopackages.org/packages/p/django-taggit/
+https://pypi.org/project/django-taggit/
