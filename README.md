@@ -23,3 +23,6 @@ Google Fonts
 
 Placeholder images
 https://picsum.photos/
+
+Factory Boy Faker - for generating posts
+https://factoryboy.readthedocs.io/en/stable/_modules/factory/faker.html
