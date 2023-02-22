@@ -26,3 +26,7 @@ https://picsum.photos/
 
 Factory Boy Faker - for generating posts
 https://factoryboy.readthedocs.io/en/stable/_modules/factory/faker.html
+
+HTMX
+https://htmx.org/
+https://pypi.org/project/django-htmx/
