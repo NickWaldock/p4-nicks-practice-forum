@@ -29,6 +29,15 @@ body {
     letter-spacing: -0.6px
 }
 
+.fs-14 {
+    font-size: 0.875rem;
+}
+
+.fs-15 {
+    font-size: 0.9375rem;
+}
+
+
 /* Media Queries */
 
 /* Post List View */
