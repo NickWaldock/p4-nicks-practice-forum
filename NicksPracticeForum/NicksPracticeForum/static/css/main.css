@@ -29,12 +29,20 @@ body {
     letter-spacing: -0.6px
 }
 
+.fs-12 {
+    font-size: 0.75rem;
+}
+
 .fs-14 {
     font-size: 0.875rem;
 }
 
 .fs-15 {
     font-size: 0.9375rem;
+}
+
+.fw-500 {
+    font-weight: 500;
 }
 
 
@@ -51,4 +59,15 @@ body {
     .infscroll-date {
         font-size: 12px;
     }
+}
+
+
+/* Footer */
+
+.footer {
+    padding: 0px 10px 5px 0px;
+}
+
+.footer a {
+    color: inherit;
 }
