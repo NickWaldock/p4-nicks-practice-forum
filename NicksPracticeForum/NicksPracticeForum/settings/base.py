@@ -72,7 +72,10 @@ TEMPLATES = [
                 "django.contrib.auth.context_processors.auth",
                 "django.contrib.messages.context_processors.messages",
             ],
-            "builtins": ["NicksPracticeForum.blog.templatetags.tag_cloud"],
+            "builtins": [
+                "NicksPracticeForum.blog.templatetags.tag_cloud",
+                "NicksPracticeForum.blog.templatetags.markdown",
+            ],
         },
     },
 ]

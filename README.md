@@ -35,3 +35,7 @@ Django Packages - tagging & Tag cloud
 https://djangopackages.org/
 https://djangopackages.org/packages/p/django-taggit/
 https://pypi.org/project/django-taggit/
+
+
+PyPi Markdown
+https://pypi.org/project/Markdown/
